@@ -1,5 +1,5 @@
 <h1 align="center">
-    <a href="#"><img src="https://imgur.com/gallery/HWZtrxk" width="450" alt="Music-Slash-Bot"></a>
+    <a href="#"><img src="https://i.imgur.com/4ffRCyB.png" width="450" alt="Music-Slash-Bot"></a>
     
    🤖 Music-Slash-Bot 🤖
 </h1>
