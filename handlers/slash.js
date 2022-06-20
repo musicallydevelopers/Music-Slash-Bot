@@ -1,5 +1,5 @@
 const { readdirSync } = require("fs")
-console.log("\x1b[33m%s\x1b[0m", "Welcome to Music-Slash-Bot|https://github.com/HELLSNAKES/Music-Slash-Bot")
+console.log("\x1b[33m%s\x1b[0m", "Welcome to Music-Slash-Bot|https://github.com/musicallydevelopers/Music-Slash-Bot")
 module.exports = (client) => {
     try {
         let amount = 0
