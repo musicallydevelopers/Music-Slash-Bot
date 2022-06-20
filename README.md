@@ -5,12 +5,12 @@
 </h1>
 
 <p align="center">
-    <img alt="Size" src="https://img.shields.io/github/languages/code-size/HELLSNAKES/Music-Slash-Bot">
-    <img alt="Stars" src="https://img.shields.io/github/stars/HELLSNAKES/Music-Slash-Bot">
-    <img alt="Fork" src="https://img.shields.io/github/forks/HELLSNAKES/Music-Slash-Bot">
-    <img alt="Commit" src="https://img.shields.io/github/commit-activity/y/HELLSNAKES/Music-Slash-Bot">
-    <img alt="Version" src="https://img.shields.io/github/package-json/v/HELLSNAKES/Music-Slash-Bot">
-    <img alt="License" src="https://img.shields.io/github/license/HELLSNAKES/Music-Slash-Bot">
+    <img alt="Size" src="https://img.shields.io/github/languages/code-size/musicallydevelopers/Music-Slash-Bot">
+    <img alt="Stars" src="https://img.shields.io/github/stars/musicallydevelopers/Music-Slash-Bot">
+    <img alt="Fork" src="https://img.shields.io/github/forks/musicallydevelopers/Music-Slash-Bot">
+    <img alt="Commit" src="https://img.shields.io/github/commit-activity/y/musicallydevelopers/Music-Slash-Bot">
+    <img alt="Version" src="https://img.shields.io/github/package-json/v/musicallydevelopers/Music-Slash-Bot">
+    <img alt="License" src="https://img.shields.io/github/license/musicallydevelopers/Music-Slash-Bot">
 
 </p>
 
@@ -54,7 +54,7 @@
 > Coming soon
 
 ## Contributing
-1. [Fork the repository](https://github.com/HELLSNAKES/Music-Slash-Bot/fork)
+1. [Fork the repository](https://github.com/musicallydevelopers/Music-Slash-Bot/fork)
 2. Clone your fork: `git clone https://github.com/your-username/music-slash-bot.git`
 
 
@@ -69,7 +69,7 @@
 * [Akshit Chaudhari](https://github.com/musicallydevelopers)
 
 ## License
-Released under the [MIT License](https://github.com/HELLSNAKES/Music-Slash-Bot/blob/main/LICENSE)
+Released under the [MIT License](https://github.com/musicallydevelopers/Music-Slash-Bot/blob/main/LICENSE)
 
 
 
