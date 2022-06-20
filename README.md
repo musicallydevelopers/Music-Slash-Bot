@@ -58,10 +58,6 @@
 2. Clone your fork: `git clone https://github.com/your-username/music-slash-bot.git`
 
 
-## Depoly Replit
-🦾 [Replit Hosting Tutorial]()
-
-
 ## Contact
 * Akshit Chaudhari - [Facebook](https://www.facebook.com/akshit.chaudhari.902/) - [Discord](https://discord.com/users/880684416559636541) - musicallydevelopment@gmail.com
 
