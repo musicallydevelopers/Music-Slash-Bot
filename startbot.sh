@@ -1,5 +1,5 @@
 echo ====================================================
 echo               Start Bot Script
-echo               Author : HELLSNAKES
+echo               Author : musicallydevelopers
 echo ====================================================
 npm start
