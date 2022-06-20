@@ -15,14 +15,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/HELLSNAKES/Music-Slash-Bot.git"
+    "url": "git+https://github.com/musicallydevelopers/Music-Slash-Bot.git"
   },
   "author": "HELLSNAKES",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/HELLSNAKES/Music-Slash-Bot/issues"
+    "url": "https://github.com/musicallydevelopers/Music-Slash-Bot/issues"
   },
-  "homepage": "https://github.com/HELLSNAKES/Music-Slash-Bot#readme",
+  "homepage": "https://github.com/musicallydevelopers/Music-Slash-Bot#readme",
   "dependencies": {
     "@discordjs/opus": "^0.5.3",
     "@discordjs/rest": "^0.1.0-canary.0",
