@@ -1,0 +1,59 @@
+{
+  "name": "music-slash-bot",
+  "version": "3.0.0",
+  "description": "a simple music bot using the slash command",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "updatebot": "node scripts/updatebot.js",
+    "lint": "eslint ./",
+    "lint:fix": "eslint --fix ./",
+    "contributors:add": "all-contributors add",
+    "contributors:generate": "all-contributors generate",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HELLSNAKES/Music-Slash-Bot.git"
+  },
+  "author": "HELLSNAKES",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HELLSNAKES/Music-Slash-Bot/issues"
+  },
+  "homepage": "https://github.com/HELLSNAKES/Music-Slash-Bot#readme",
+  "dependencies": {
+    "@discordjs/opus": "^0.5.3",
+    "@discordjs/rest": "^0.1.0-canary.0",
+    "@discordjs/voice": "^0.7.5",
+    "@distube/soundcloud": "^1.1.0",
+    "@distube/spotify": "^1.2.1",
+    "@distube/yt-dlp": "^0.0.2",
+    "discord-api-types": "^0.26.0",
+    "discord.js": "^13.6.0",
+    "distube": "^3.3.1-1",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "ffmpeg-static": "^4.4.0",
+    "genius-lyrics-api": "^3.2.0",
+    "humanize-duration": "^3.27.0",
+    "libsodium-wrappers": "^0.7.9",
+    "moment": "^2.29.2",
+    "node-fetch": "^2.6.7",
+    "string-progressbar": "^1.0.4",
+    "ytdl-core": "^4.10.1"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "devDependencies": {
+    "all-contributors-cli": "^6.20.0",
+    "eslint": "^7.32.0",
+    "eslint-config-standard": "^16.0.3",
+    "eslint-plugin-import": "^2.25.2",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^5.1.0",
+    "nodemon": "^2.0.14"
+  }
+}
