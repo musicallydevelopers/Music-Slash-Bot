@@ -149,7 +149,7 @@ client.distube
     .on("playSong", (queue, song) => {
         const embed = new MessageEmbed()
             .setColor("RANDOM")
-            .setAuthor({ name: "Started Playing", iconURL: "https://raw.githubusercontent.com/HELLSNAKES/Music-Slash-Bot/main/assets/music.gif" })
+            .setAuthor({ name: "Started Playing", iconURL: "https://raw.githubusercontent.com/musicallydevelopers/Music-Slash-Bot/main/assets/music.gif" })
             .setThumbnail(song.thumbnail)
             .setDescription(`[${song.name}](${song.url})`)
             .addField("**Views:**", song.views.toString(), true)
@@ -220,7 +220,7 @@ fetch("https://raw.githubusercontent.com/HELLSNAKES/Music-Slash-Bot/main/version
         if (data.version !== version) {
             console.log("\x1b[32m%s\x1b[0m", "===============================Update Available===================================")
             console.log("Ver:", data.version)
-            console.log("\x1b[36m%s\x1b[0m", "Check commit : https://github.com/HELLSNAKES/Music-Slash-Bot/commits/main")
+            console.log("\x1b[36m%s\x1b[0m", "Check commit : https://github.com/musicallydevelopers/Music-Slash-Bot/commits/main")
             console.log("\x1b[31m%s\x1b[0m", "Use `npm run updatebot` to update")
             console.log("\x1b[32m%s\x1b[0m", "==================================================================================")
         } else {
